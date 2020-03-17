@@ -1,0 +1,13 @@
+{
+  "name": "pr-retester",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.6",
+    "typescript": "^3.8.2"
+  }
+}
